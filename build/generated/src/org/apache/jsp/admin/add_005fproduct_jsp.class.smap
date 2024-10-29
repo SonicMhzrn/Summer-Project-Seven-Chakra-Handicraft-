@@ -1,0 +1,26 @@
+SMAP
+add_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_product.jsp
+admin/add_product.jsp
++ 1 svgFile.jsp
+admin/svgFile.jsp
+*L
+5,41:66
+1#1,83:107
+45#0,80:190
+124:406,8
+125:414,3
+126:417
+126:440,6
+126,2:420
+127,3:272
+129:459,8
+130:467,3
+131:470
+131:493,6
+131,2:473
+132,112:277
+*E

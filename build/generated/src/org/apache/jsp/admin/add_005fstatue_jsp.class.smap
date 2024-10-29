@@ -1,0 +1,26 @@
+SMAP
+add_005fstatue_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_statue.jsp
+admin/add_statue.jsp
++ 1 svgFile.jsp
+admin/svgFile.jsp
+*L
+5,41:66
+1#1,83:107
+45#0,80:190
+124:395,8
+125:403,3
+126:406
+126:429,6
+126,2:409
+127,3:272
+129:448,8
+130:456,3
+131:459
+131:482,6
+131,2:462
+132,101:277
+*E
